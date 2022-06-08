@@ -3,7 +3,9 @@
 An open-source rectangle hardware project for smash, prioritizing ease of assembly and cost.
 
 [Announcement/Overview video](frame1.gg)
+
 [Example build guide](frame1.gg)
+
 [Arte's code](https://github.com/JulienBernard3383279/pico-rectangle)
 
 ### Overview
