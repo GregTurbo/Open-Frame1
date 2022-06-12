@@ -31,6 +31,7 @@ Other than the pico, the OF1 board houses 4 main components, and only 2 are mand
 - a diode
 - a secondary internal type-c port (optional, used to more easily routing the usb signal from the pico to the main port)
 - Hotswap sockets
+![board overview](https://user-images.githubusercontent.com/28491168/173209396-a105109a-8bd6-4859-9a19-c7479b79a35b.png)
 
 I would recommend having them assembled via a 3rd party assembly service such as JLC, as type-c ports can be difficult and time-consuming.
 
