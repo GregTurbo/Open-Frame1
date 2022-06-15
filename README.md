@@ -2,7 +2,7 @@
 ![Open F1 logo stroke mode](https://user-images.githubusercontent.com/28491168/173758069-75f6b53f-6dd0-4fa1-a8ac-bf687989da07.png)
 An open-source rectangle hardware project for smash, prioritizing ease of assembly and cost.
 
-[Announcement/Overview video]([frame1.gg](https://youtu.be/RbpOA7Az5DE))
+[Announcement/Overview video](https://youtu.be/RbpOA7Az5DE)
 
 [Example build guide](frame1.gg)
 
