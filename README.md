@@ -8,6 +8,8 @@ An open-source rectangle hardware project for smash, prioritizing ease of assemb
 
 [Arte's code (pico-rectangle)](https://github.com/JulienBernard3383279/pico-rectangle)
 
+[USB-C to GC cables](https://frame1.gg/collections/all/products/extra-usb-c-to-gamecube-wii-cable)
+
 ### Overview
 Currently, this project contains the files necessary to create your own Frame1 Light near-equivalent PCB. The files to get this PCB made with parts soldered on are already compiled for you (see: Fabrication Files), but the original schematics are also here if you want to make changes.
 
