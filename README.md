@@ -4,7 +4,7 @@ An open-source rectangle hardware project for smash, prioritizing ease of assemb
 
 [Announcement/Overview video](https://youtu.be/RbpOA7Az5DE)
 
-[Example build guide](coming soon)
+[Example build guide by Crane](https://youtu.be/w4r5CNIimU0)
 
 [Arte's code (pico-rectangle)](https://github.com/JulienBernard3383279/pico-rectangle)
 
