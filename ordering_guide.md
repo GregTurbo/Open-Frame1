@@ -1,5 +1,5 @@
 # Open-Frame1 Ordering Guide
-First screen you'll upload the fabrication files. Just upload .zip file located /PCB/Board Fab Files/. At the bottom of this screen JLC asks if you want them to do any smt assembly.
+First screen you'll upload the fabrication files. Just upload the .zip file located /PCB/Board Fab Files/. At the bottom of this screen JLC asks if you want them to do any smt assembly which you should select.
 
 ![Screen1_1](Ordering_guide_images/screen1_1.png)![Screen1_2](Ordering_guide_images/screen1_2.png)
 
@@ -7,7 +7,7 @@ Next screen they ask for the BOM (Bill of Materials) spreadsheet and the CPL (te
 
 ![Screen2_1](Ordering_guide_images/screen2.png)
 
-The next screen will ask which components you want them to assemble. The 24 pin connector is pretty much mandatory as you can't do it without a hot air station. The other 2 components are convenient.
+The next screen will ask which components you want them to assemble. The 24 pin connector is pretty much mandatory as you can't do it without a hot air station. The other 4 components are convenient.
 
 ![Screen3_1](Ordering_guide_images/screen3.png)
 
