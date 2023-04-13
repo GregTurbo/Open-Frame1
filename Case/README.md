@@ -8,7 +8,7 @@ https://github.com/rana-sylvatica/OFOF1
 
 # Davy's 3d printable cases
 
-https://www.printables.com/model/394573-openframe1-full-case/n
+https://www.printables.com/model/394573-openframe1-full-case
 https://www.printables.com/model/394572-openframe1-case-glued
 
 # Ed's 3d printable case
